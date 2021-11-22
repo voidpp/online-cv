@@ -50,14 +50,20 @@ education:
       university: Budapest Technical College, Kálmán Kandó Faculty of Electrical Engineering
       time: 2004 - 2009
       details: |
-        Specialization in Instrumentation and Automation, IT automation systems.          
-        Note: I had not able to graduate because of family reasons
+        Specialization in Instrumentation and Automation, IT automation systems. (I had not able to graduate because of family problems.)
 experiences:
-    - role: Full Stack Developer
+    - role: C++ / Full Stack Developer
       time: 2011 - Present
       company: Deverto Systems Ltd.
       details: |
-        I worked on 2 major are at Deverto
+        Roles:
+            - C++ developer: (2011 - 2013)
+                - Developing the main product of the company (basicly it's a call routing sw)
+                - Heavily multihreaded application
+                - testing
+                - some knowledge of telecommunication standards (sip, sdp, snmp, cli, msrp)
+            - Full Stack Developer: (2013 - )
+                - Developing multiple (15-20) application 
     - role: Software Developer
       time: 2007 - 2011
       company: VEMS
