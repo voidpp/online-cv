@@ -56,14 +56,14 @@ experiences:
       time: 2011 - Present
       company: Deverto Systems Ltd.
       details: |
-        Roles:
-            - C++ developer: (2011 - 2013)
-                - Developing the main product of the company (basicly it's a call routing sw)
-                - Heavily multihreaded application
-                - testing
-                - some knowledge of telecommunication standards (sip, sdp, snmp, cli, msrp)
-            - Full Stack Developer: (2013 - )
-                - Developing multiple (15-20) application 
+           C++ developer: (2011 - 2013)
+           - Developing the main product of the company (basicly it's a call routing sw)
+           - Heavily multihreaded application
+           - testing
+           - some knowledge of telecommunication standards (sip, sdp, snmp, cli, msrp)
+           
+           Full Stack Developer: (2013 - )
+           - Developing multiple (15-20) application 
     - role: Software Developer
       time: 2007 - 2011
       company: VEMS
