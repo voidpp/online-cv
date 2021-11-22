@@ -51,23 +51,20 @@ education:
       time: 2004 - 2009
       details: |
         Specialization in Instrumentation and Automation, IT automation systems.          
-        (I had not able to graduate because of family reasons)
+        Note: I had not able to graduate because of family reasons
 experiences:
     - role: Full Stack Developer
       time: 2011 - Present
       company: Deverto Systems Ltd.
       details: |
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I worked on 2 major are at Deverto
+    - role: Software Developer
+      time: 2007 - 2011
+      company: VEMS
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Developing multiplatform UI heavy application with C++ and wxWidgets
+          - Operation systems: Windows XP/7, WinCE, Linux
+          - Designing and developing the website of the company
 
 skills:
     title: Skills &amp; Proficiency
