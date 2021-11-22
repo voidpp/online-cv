@@ -56,16 +56,17 @@ experiences:
       time: 2011 - Present
       company: Deverto Systems Ltd.
       details: |
+           Full Stack Developer: (2013 - )
+           - developing multiple (10-15) web applications which are connected to the main product in various ways
+           - these web application has various properties such as single/multi page applications, high load requirement, server or frontent routing, etc...
+           - since we using scrum methodology, which technically should not have a team leader, the last 4-5 years I was the most expirienced member of the team so I was accepted as a team leader 
+
            C++ developer: (2011 - 2013)
            - developing the main product of the company (basicly it's a call routing sw)
            - strongly multihreaded application
            - multi level testing (unit, functional)
            - some knowledge about telecommunication standards (sip, sdp, snmp, cli, msrp)
-           
-           Full Stack Developer: (2013 - )
-           - developing multiple (10-15) web applications which are connected to the main product in various ways
-           - these web application has various properties such as single/multi page applications, high load requirement, server or frontent routing, etc...
-           - since we using scrum methodology, which technically should not have a team leader, the last 4-5 years I was the most expirienced member of the team so I was accepted as a team leader 
+
     - role: Software Developer
       time: 2007 - 2011
       company: VEMS
