@@ -254,6 +254,12 @@ p {
         height: 12px;
         background: lighten($theme-color, 15%);
     }
+    .examples {
+        color: $text-grey;
+    }
+    .name {
+        font-weight: bold;
+    }
 }
 
 
