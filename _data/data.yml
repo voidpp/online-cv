@@ -13,19 +13,19 @@ sidebar:
 
     # Sidebar links
     email: santa.lajos@gmail.com
-    phone: 
+    phone:
     website: #do not add http://
     linkedin: lajos-sánta-32a458137
-    xing: 
+    xing:
     github: voidpp
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf:
 
     languages:
       - idiom: Hunagrian
@@ -33,31 +33,31 @@ sidebar:
 
       - idiom: English
         level: ~B2
-        
+
     interests:
       - item: Geek stuff
 
       - item: Cooking
-      
+
       - item: IoT
 
 career-profile:
     title: Career Profile
     summary: |
-      A Real Full Stack Developer, because I have electrical engineering background, 
-      I learned developing softwares in the industry, I created high-load servers in C++, 
-      web backends in Python, and single page application frontends in javascript/typescript. 
+      A Real Full Stack Developer, because I have electrical engineering background,
+      I learned developing softwares in the industry, I created high-load servers in C++,
+      web backends in Python, and single page application frontends in javascript/typescript.
       And I am not scared of a psd file.
 
-      There is a Clean Code phrase: write your code like the reviewer is a psychopath 
-      who knows where are you live... or a less "violent" one: you are not writing the 
-      code for the machine rather to an other human. Sure, the client pays for the feature, 
-      but if we want to maintain that software, eg. adding new features or fixing bugs that 
-      extra time what we used to create a good code will pay back the money. 
+      There is a Clean Code phrase: write your code like the reviewer is a psychopath
+      who knows where are you live... or a less "violent" one: you are not writing the
+      code for the machine rather to an other human. Sure, the client pays for the feature,
+      but if we want to maintain that software, eg. adding new features or fixing bugs that
+      extra time what we used to create a good code will pay back the money.
       That's how I feel about software development.
 
 education:
-    - degree: 
+    - degree:
       university: Budapest Technical College, Kálmán Kandó Faculty of Electrical Engineering
       time: 2004 - 2009
       details: |
@@ -70,7 +70,7 @@ experiences:
            Full Stack Developer: (2013 - )
            - developing multiple (10-15) web applications which are connected to the main product in various ways
            - these web application has various properties such as single/multi page applications, high load requirement, server or frontent routing, etc...
-           - since we using scrum methodology, which technically should not have a team leader, the last 4-5 years I was the most expirienced member of the team so I was accepted as a team leader 
+           - since we using scrum methodology, which technically should not have a team leader, the last 4-5 years I was the most expirienced member of the team so I was accepted as a team leader
 
            C++ developer: (2011 - 2013)
            - developing the main product of the company (basicly it's a call routing sw)
@@ -91,45 +91,45 @@ skills:
 
     toolset: []
 
-    levels:
-      - name: High
-        items:
-        - name: Python
-          examples: 2.7, 3.x
-        - name: Python frameworks
-          examples: web2py, Flask, Starlette, SQLAlchemy
-        - name: React
-          examples: ReactJS, Flux, Redux, Router
+    # levels:
+    #   - name: High
+    #     items:
+    #     - name: Python
+    #       examples: 2.7, 3.x
+    #     - name: Python frameworks
+    #       examples: web2py, Flask, Starlette, SQLAlchemy
+    #     - name: React
+    #       examples: ReactJS, Flux, Redux, Router
 
-      - name: Medium
-        items:
-        - name: Javascript ES6+ / Typescript
-        - name: HTML5 & CSS3
-        - name: Databases
-          examples: Postgresql, MySQL (MariaDB), InfluxDB, Redis
-        - name: CI / CD
-          examples: gitlab, jenkins, ansible
-        - name: GNU/Linux system management
-        - name: Web server and wsgi
-          examples: Apache2, Nginx, uwsgi, uvicorn
-        - name: Design
-          examples: I know it's hard to measure this, but according to my coworkers, I have "eye for the design"
+    #   - name: Medium
+    #     items:
+    #     - name: Javascript ES6+ / Typescript
+    #     - name: HTML5 & CSS3
+    #     - name: Databases
+    #       examples: Postgresql, MySQL (MariaDB), InfluxDB, Redis
+    #     - name: CI / CD
+    #       examples: gitlab, jenkins, ansible
+    #     - name: GNU/Linux system management
+    #     - name: Web server and wsgi
+    #       examples: Apache2, Nginx, uwsgi, uvicorn
+    #     - name: Design
+    #       examples: I know it's hard to measure this, but according to my coworkers, I have "eye for the design"
 
-      - name: Low
-        items:
-        - name: Photoshop  
-        - name: Docker
+    #   - name: Low
+    #     items:
+    #     - name: Photoshop
+    #     - name: Docker
 
-      - name: Other
-        items:
-        - name: UI frameworks
-          examples: MaterialUI, React-Bootstrap
-        - name: Web interfaces      
-          examples: GraphQL, REST, RPC, WebRTC, Websocket
-        - name: Bundlers
-          examples: Webpack, Grunt
-        - name: Test frameworks
-          examples: Nose, Pytest, Selenium
+    #   - name: Other
+    #     items:
+    #     - name: UI frameworks
+    #       examples: MaterialUI, React-Bootstrap
+    #     - name: Web interfaces
+    #       examples: GraphQL, REST, RPC, WebRTC, Websocket
+    #     - name: Bundlers
+    #       examples: Webpack, Grunt
+    #     - name: Test frameworks
+    #       examples: Nose, Pytest, Selenium
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
