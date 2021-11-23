@@ -44,17 +44,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A Real Full Stack Developer, because I have electrical engineering background,
+      A real Full Stack Developer, because I have electrical engineering background,
       I learned developing softwares in the industry, I created high-load servers in C++,
       web backends in Python, and single page application frontends in javascript/typescript.
       And I am not scared of a psd file also.
 
-      There is a Clean Code phrase: write your code like the reviewer is a psychopath
-      who knows where are you live... or a less "violent" one: you are not writing the
-      code for the machine rather to an other human. Sure, the client pays for the feature,
+      There is a Clean Code expression: write your code like the reviewer is a psychopath
+      who knows where you live... or a less "violent" one: you are not writing the
+      code for the machine rather to another human. Sure, the client pays for the feature,
       but if we want to maintain that software in the future, eg. adding new features or
-      fixing bugs that extra time what we have used to create a good code will pay off.
-      That's how I feel about software development.
+      fixing bugs the extra time spent on creating a good code will pay off.
+      This is how I feel about software development.
 
 education:
     - degree:
@@ -106,7 +106,7 @@ skills:
       - name: Medium
         items:
         - name: Typescript / Javascript ES6+
-          examples: (I think Typescript is the best thing that could have happened with Javascript...)
+          examples: (I think Typescript is the best thing that could have happened to Javascript...)
         - name: HTML5 & CSS3
         - name: Databases
           examples: Postgresql, MySQL (MariaDB), InfluxDB, Redis
