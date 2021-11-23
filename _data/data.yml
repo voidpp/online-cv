@@ -91,45 +91,45 @@ skills:
 
     toolset: []
 
-    # levels:
-    #   - name: High
-    #     items:
-    #     - name: Python
-    #       examples: 2.7, 3.x
-    #     - name: Python frameworks
-    #       examples: web2py, Flask, Starlette, SQLAlchemy
-    #     - name: React
-    #       examples: ReactJS, Flux, Redux, Router
+    levels:
+      - name: High
+        items:
+        - name: Python
+          examples: 2.7, 3.x
+        - name: Python frameworks
+          examples: web2py, Flask, Starlette, SQLAlchemy
+        - name: React
+          examples: ReactJS, Flux, Redux, Router
 
-    #   - name: Medium
-    #     items:
-    #     - name: Javascript ES6+ / Typescript
-    #     - name: HTML5 & CSS3
-    #     - name: Databases
-    #       examples: Postgresql, MySQL (MariaDB), InfluxDB, Redis
-    #     - name: CI / CD
-    #       examples: gitlab, jenkins, ansible
-    #     - name: GNU/Linux system management
-    #     - name: Web server and wsgi
-    #       examples: Apache2, Nginx, uwsgi, uvicorn
-    #     - name: Design
-    #       examples: I know it's hard to measure this, but according to my coworkers, I have "eye for the design"
+      - name: Medium
+        items:
+        - name: Javascript ES6+ / Typescript
+        - name: HTML5 & CSS3
+        - name: Databases
+          examples: Postgresql, MySQL (MariaDB), InfluxDB, Redis
+        - name: CI / CD
+          examples: gitlab, jenkins, ansible
+        - name: GNU/Linux system management
+        - name: Web server and wsgi
+          examples: Apache2, Nginx, uwsgi, uvicorn
+        - name: Design
+          examples: I know it's hard to measure this, but according to my coworkers, I have "eye for the design"
 
-    #   - name: Low
-    #     items:
-    #     - name: Photoshop
-    #     - name: Docker
+      - name: Low
+        items:
+        - name: Photoshop
+        - name: Docker
 
-    #   - name: Other
-    #     items:
-    #     - name: UI frameworks
-    #       examples: MaterialUI, React-Bootstrap
-    #     - name: Web interfaces
-    #       examples: GraphQL, REST, RPC, WebRTC, Websocket
-    #     - name: Bundlers
-    #       examples: Webpack, Grunt
-    #     - name: Test frameworks
-    #       examples: Nose, Pytest, Selenium
+      - name: Other
+        items:
+        - name: UI frameworks
+          examples: MaterialUI, React-Bootstrap
+        - name: Web interfaces
+          examples: GraphQL, REST, RPC, WebRTC, Websocket
+        - name: Bundlers
+          examples: Webpack, Grunt
+        - name: Test frameworks
+          examples: Nose, Pytest, Selenium
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
