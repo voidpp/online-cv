@@ -17,11 +17,13 @@
     <div class="item">
         <h3>{{ level.name }}</h3>
         <ul>
-          {{% for item in level.items %}}
+          {% for item in level.items %}
               <li>
                 {{ item.name }}
-                <br/>
-                <span>{{ item.examples }}</span>
+                {% if item.examples: %}
+                  <br/>
+                  <span>{{ item.examples }}</span>
+                {% endif %}
               </li>
           {% endfor %}
         </ul>
