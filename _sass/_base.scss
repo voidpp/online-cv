@@ -195,7 +195,8 @@ p {
     }
     .company, .university {
         margin-bottom: 10px;
-        color: $text-grey;
+        color: $text-color;
+        font-weight: bold;
     }
 
     .project-title {
