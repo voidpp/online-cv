@@ -28,7 +28,7 @@ sidebar:
     pdf:
 
     languages:
-      - idiom: Hunagrian
+      - idiom: Hungarian
         level: Native
 
       - idiom: English
@@ -62,6 +62,7 @@ education:
       time: 2004 - 2009
       details: |
         Specialization in Instrumentation and Automation, IT automation systems.
+
         (I had not able to graduate because of family problems.)
 experiences:
     - role: C++ / Full Stack Developer
@@ -111,6 +112,7 @@ skills:
         - name: CI / CD
           examples: Gitlab, Jenkins, Ansible
         - name: GNU/Linux system management
+          examples: Debian, Ubuntu
         - name: Web server and wsgi/asgi
           examples: Apache2, Nginx, uwsgi, uvicorn
         - name: Design
