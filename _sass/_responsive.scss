@@ -1,5 +1,5 @@
 /* Extra small devices (phones, less than 768px) */
-@media (max-width: 467px) {
+@media (max-width: 767px) {
 
     body{
         padding: 0;
@@ -33,7 +33,7 @@
 }
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: 492px) {
+@media (min-width: 992px) {
 
     .skillset .level-title {
         display: inline-block;
