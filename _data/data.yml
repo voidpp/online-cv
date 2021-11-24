@@ -58,12 +58,11 @@ career-profile:
 
 education:
     - degree:
-      university: Budapest Technical College, Kálmán Kandó Faculty of Electrical Engineering
-      time: 2004 - 2009
+      university: Budapest Technical College, Kálmán Kandó Faculty of Electrical Engineering (2004 - 2009)
       details: |
         Specialization in Instrumentation and Automation, IT automation systems.
 
-        (I could not graduate due to family problems.)
+        (I had all the credits, but I could not graduate due to family problems.)
 experiences:
     - role: C++ / Full Stack Developer
       time: 2011 - Present
