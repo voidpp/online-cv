@@ -69,7 +69,7 @@ experiences:
       company: Deverto Systems Ltd.
       details: |
            Full Stack Developer: (2013 - )
-           - developing multiple (10-15) web applications which are connected to the main product in various ways
+           - developing multiple (10-15) web applications which are connected to the main product in various ways (json/xml rpc, grpc, graphql, custom)
            - these web application has different properties such as single/multi page applications, high load requirement, server or frontend routing, etc...
            - since we use scrum methodology, which technically should not have a team leader, the last 4-5 years I was the most experienced member of the team so I was accepted as a team leader
 
@@ -107,6 +107,7 @@ skills:
         - name: Typescript / Javascript ES6+
           examples: (I think Typescript is the best thing that could have happened to Javascript...)
         - name: HTML5 & CSS3
+          examples: (I know how to center a div with css :))
         - name: Databases
           examples: Postgresql, MySQL (MariaDB), InfluxDB, Redis
         - name: CI / CD
@@ -128,7 +129,7 @@ skills:
         - name: UI frameworks
           examples: MaterialUI, React-Bootstrap
         - name: Web interfaces
-          examples: GraphQL, REST, RPC, WebRTC, Websocket
+          examples: GraphQL, REST, RPC, WebRTC, Websocket, OAuth2
         - name: Bundlers
           examples: Webpack, Grunt
         - name: Test frameworks
